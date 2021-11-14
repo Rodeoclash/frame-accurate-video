@@ -1,0 +1,14 @@
+.container {
+  display: flex;
+  height: 100vh;
+}
+
+.article {
+  flex: 2;
+  height: 100%;
+}
+
+.aside {
+  flex: 1;
+  height: 100%;
+}
